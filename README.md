@@ -1,6 +1,6 @@
 # KiemThuChucNang
 ## Language
 - Java
-## Libray
+## Library
 - JUnit
  
